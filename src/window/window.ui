@@ -24,6 +24,6 @@
           </object>
         </child>
       </object>
-    </template>
-  </object>
+    </child>
+  </template>
 </interface>
